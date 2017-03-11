@@ -64,6 +64,10 @@ nav.navbar-findcond span.badge.new { background: rgba(255, 0, 0, 0.8); color: #f
 
 footer{padding-top:40px;padding-bottom:40px;font-family: Cantarell;font-size: 14px;font-weight: 400;}
 
+img{
+	width: 100%;
+}
+
 
 
 
